@@ -1,0 +1,82 @@
+[
+  {
+    "market": "us",
+    "company": "Example Metrics",
+    "title": "Data Analyst — Graduate 2030",
+    "location": "San Francisco, CA, United States",
+    "category": "New graduate",
+    "sector": "Technology",
+    "url": "https://example.com/jobscout-demo/1",
+    "description": "[SYNTHETIC DEMO / 虚构示例] Use SQL and Python to analyze synthetic retail data. Build Tableau dashboards, define product metrics, and summarize experimental results for cross-functional teams. Bachelor or Masters degree. Graduate between January 2030 and December 2030. Work authorization policy is not stated and must be verified with the employer."
+  },
+  {
+    "market": "us",
+    "company": "Example Risk Lab",
+    "title": "Credit Risk Analyst",
+    "location": "New York, NY, United States",
+    "category": "Full time",
+    "sector": "Financial services",
+    "url": "https://example.com/jobscout-demo/2",
+    "description": "[SYNTHETIC DEMO / 虚构示例] Analyze portfolio performance with Python and SQL. Present risk reports and monitor data quality. Requires 3 years of professional credit risk model development experience. Experience with regulated model validation is required. No assumption of fit is made from academic projects or historical employer filings."
+  },
+  {
+    "market": "us",
+    "company": "Example Product Studio",
+    "title": "Data Analyst Intern Summer 2030",
+    "location": "Los Angeles, CA, United States",
+    "category": "Internship",
+    "sector": "Technology",
+    "url": "https://example.com/jobscout-demo/3",
+    "description": "[SYNTHETIC DEMO / 虚构示例] Support product analytics with SQL, pandas and Tableau dashboards. Applicants must return to school after the internship. Graduation date must be between December 2030 and June 2031. Design experiments and document cohort metrics in collaboration with the product team. This is a fictional example of a graduation-window conflict."
+  },
+  {
+    "market": "us",
+    "company": "Example Reporting",
+    "title": "Business Intelligence Analyst",
+    "location": "Chicago, IL, United States",
+    "category": "Full time",
+    "sector": "Technology",
+    "url": "https://example.com/jobscout-demo/4",
+    "description": "[SYNTHETIC DEMO / 虚构示例] Build and maintain SQL reporting tables, reconcile data quality checks, and develop Tableau dashboards. Communicate findings to business stakeholders. Bachelor or Masters degree. Prior work with spreadsheet data and analytical coursework is welcome. Sponsorship and work authorization are not specified in this fictional JD."
+  },
+  {
+    "market": "cn",
+    "company": "示例金融科技",
+    "title": "风险数据分析实习生",
+    "location": "深圳",
+    "category": "日常实习",
+    "sector": "互联网 / 金融科技",
+    "url": "https://example.com/jobscout-demo/5",
+    "description": "[SYNTHETIC DEMO / 虚构示例] 岗位职责：使用 SQL、Python 和 Excel 清洗合成交易数据，建立业务指标看板，记录异常数据并输出分析报告。任职要求：本科或硕士在读，掌握基础数据处理与统计方法；每周至少四天，实习三个月以上。到岗时间、在读资格与正式风控经验均需单独核实。本条为虚构演示，不对应真实招聘。"
+  },
+  {
+    "market": "cn",
+    "company": "示例商业平台",
+    "title": "商业数据分析师",
+    "location": "上海",
+    "category": "2030届校园招聘",
+    "sector": "互联网",
+    "url": "https://example.com/jobscout-demo/6",
+    "description": "[SYNTHETIC DEMO / 虚构示例] 毕业时间窗口：2029-09-01 ~ 2030-08-31。岗位职责：使用 SQL、Python、Excel 和 Tableau 分析合成零售数据，维护销售与客户分群指标，整理产品实验结论。任职要求：本科或硕士学历，能够解释数据质量问题，并清晰表达分析结论；无明确正式工作年限要求。本条为虚构演示，不对应真实招聘。"
+  },
+  {
+    "market": "cn",
+    "company": "示例互联网",
+    "title": "数据分析实习生【31届，面向转正】",
+    "location": "北京",
+    "category": "实习",
+    "sector": "互联网",
+    "url": "https://example.com/jobscout-demo/7",
+    "description": "[SYNTHETIC DEMO / 虚构示例] 岗位职责：参与产品漏斗分析，使用 SQL、Python 与看板工具，整理合成用户数据与实验指标。任职要求：仅面向 2031 届毕业生，实习结束后须返校继续完成学业，每周至少四天。需要核对毕业批次与到岗安排。本条为虚构演示，不对应真实企业或真实招聘。"
+  },
+  {
+    "market": "cn",
+    "company": "示例研究实验室",
+    "title": "大模型算法研究实习生",
+    "location": "杭州",
+    "category": "研究型实习",
+    "sector": "互联网",
+    "url": "https://example.com/jobscout-demo/8",
+    "description": "[SYNTHETIC DEMO / 虚构示例] 岗位职责：研究多模态大模型训练与推理方法，使用 PyTorch 开展分布式训练、论文复现与消融实验。任职要求：深度学习研究经验，熟悉模型架构与 CUDA 优化，有相关研究论文者优先。普通数据分析与可视化经历不等同算法研发能力。本条为虚构演示，不对应真实招聘。"
+  }
+]

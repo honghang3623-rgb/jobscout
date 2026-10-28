@@ -1,0 +1,267 @@
+[
+  {
+    "id": "zhiye-gjzq",
+    "name": "国金证券",
+    "sector": "证券",
+    "adapter": "zhiye",
+    "url": "https://gjzq.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-dwzq",
+    "name": "东吴证券",
+    "sector": "证券",
+    "adapter": "zhiye",
+    "url": "https://dwzq.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-cicc",
+    "name": "中金公司",
+    "sector": "证券",
+    "adapter": "zhiye",
+    "url": "https://cicc.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-csc108",
+    "name": "中信建投证券",
+    "sector": "证券",
+    "adapter": "zhiye",
+    "url": "https://csc108.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-guosen",
+    "name": "国信证券",
+    "sector": "证券",
+    "adapter": "zhiye",
+    "url": "https://guosen.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-cmfchina",
+    "name": "招商基金",
+    "sector": "公募基金",
+    "adapter": "zhiye",
+    "url": "https://cmfchina.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-myfund",
+    "name": "明毅基金",
+    "sector": "私募基金",
+    "adapter": "zhiye",
+    "url": "https://myfund.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-cscb",
+    "name": "长沙银行",
+    "sector": "银行",
+    "adapter": "zhiye",
+    "url": "https://cscb.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-ghbank",
+    "name": "广东华兴银行",
+    "sector": "银行",
+    "adapter": "zhiye",
+    "url": "https://ghbank.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-suzhoubank",
+    "name": "苏州银行",
+    "sector": "银行",
+    "adapter": "zhiye",
+    "url": "https://suzhoubank.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-shrcb",
+    "name": "上海农商银行",
+    "sector": "银行",
+    "adapter": "zhiye",
+    "url": "https://shrcb.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-bankofbeijing",
+    "name": "北京银行",
+    "sector": "银行",
+    "adapter": "zhiye",
+    "url": "https://bankofbeijing.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "zhiye-smbccn",
+    "name": "三井住友银行中国",
+    "sector": "银行",
+    "adapter": "zhiye",
+    "url": "https://smbccn.zhiye.com/campus/jobs"
+  },
+  {
+    "id": "tencent-public",
+    "name": "腾讯",
+    "sector": "互联网",
+    "adapter": "tencent",
+    "url": "https://careers.tencent.com/"
+  },
+  {
+    "id": "legacy-huaan",
+    "name": "华安基金",
+    "sector": "公募基金",
+    "adapter": "zhiye_legacy",
+    "url": "https://huaan.zhiye.com/campus"
+  },
+  {
+    "id": "legacy-zofund",
+    "name": "中欧基金",
+    "sector": "公募基金",
+    "adapter": "zhiye_legacy",
+    "url": "https://zofund.zhiye.com/campus"
+  },
+  {
+    "id": "legacy-chinaamc",
+    "name": "华夏基金",
+    "sector": "公募基金",
+    "adapter": "zhiye_legacy",
+    "url": "https://chinaamc.zhiye.com/campus"
+  },
+  {
+    "id": "legacy-htffund",
+    "name": "汇添富基金",
+    "sector": "公募基金",
+    "adapter": "manual",
+    "url": "https://htffund.zhiye.com/campus",
+    "reason": "当前公开页面未识别到职位链接，保留官方入口"
+  },
+  {
+    "id": "huatai-manual",
+    "name": "华泰证券",
+    "sector": "证券",
+    "adapter": "manual",
+    "url": "https://wecruit.hotjob.cn/SU6419745cbef57c635fe10142/pb/index.html",
+    "reason": "官网当前返回访问限制，保留人工入口，不绕过限制"
+  },
+  {
+    "id": "cmb-manual",
+    "name": "招商银行",
+    "sector": "银行",
+    "adapter": "manual",
+    "url": "https://cmb-recruitment-pc.paas.cmbchina.com/home",
+    "reason": "动态招聘页待适配，当前保留官网入口"
+  },
+  {
+    "id": "ubiquant-manual",
+    "name": "九坤投资",
+    "sector": "私募基金",
+    "adapter": "manual",
+    "url": "https://www.ubiquant.com/website/career",
+    "reason": "动态招聘页待适配，优先考虑投研数据与分析岗位，量化研究需单独核对"
+  },
+  {
+    "id": "bytedance-manual",
+    "name": "字节跳动",
+    "sector": "互联网",
+    "adapter": "manual",
+    "url": "https://jobs.bytedance.com/campus/position",
+    "reason": "The public repository does not distribute browser snapshots. Review the official site or import your own complete JDs locally."
+  },
+  {
+    "id": "global-airwallex",
+    "name": "Airwallex 空中云汇",
+    "sector": "金融科技 / 互联网",
+    "adapter": "global_ats",
+    "ats_kind": "ashby",
+    "slug": "airwallex",
+    "url": "https://jobs.ashbyhq.com/airwallex"
+  },
+  {
+    "id": "global-canva",
+    "name": "Canva 可画",
+    "sector": "互联网",
+    "adapter": "global_ats",
+    "ats_kind": "greenhouse",
+    "slug": "canva",
+    "url": "https://www.canva.com/careers/jobs/"
+  },
+  {
+    "id": "zhiye-bosc",
+    "name": "上海银行",
+    "sector": "银行",
+    "adapter": "zhiye",
+    "url": "https://bosc.zhiye.com/campus/jobs",
+    "brand": "上海银行"
+  },
+  {
+    "id": "zhiye-nesc",
+    "name": "东北证券",
+    "sector": "证券",
+    "adapter": "zhiye",
+    "url": "https://nesc.zhiye.com/jobs",
+    "brand": "东北证券"
+  },
+  {
+    "id": "zhiye-iflytek",
+    "name": "科大讯飞",
+    "sector": "互联网 / AI科技",
+    "adapter": "zhiye",
+    "url": "https://iflytek.zhiye.com/campus/jobs",
+    "brand": "科大讯飞"
+  },
+  {
+    "id": "zhiye-wondershare",
+    "name": "万兴科技",
+    "sector": "互联网 / AI软件",
+    "adapter": "zhiye",
+    "url": "https://wondersharecampus.zhiye.com/Intern/jobs",
+    "brand": "万兴"
+  },
+  {
+    "id": "baidu-public",
+    "name": "百度",
+    "sector": "互联网 / AI科技",
+    "adapter": "baidu_public",
+    "url": "https://talent.baidu.com/jobs/list",
+    "reason": "公开校招与日常实习搜索页部分采集；不调用需授权的接口，不会按缺席判定下架。"
+  },
+  {
+    "id": "alibaba-campus",
+    "name": "阿里巴巴",
+    "sector": "互联网 / 电商 / BI",
+    "adapter": "alibaba",
+    "url": "https://campus-talent.alibaba.com",
+    "reason": "官方校招及日常/研究型实习公开职位，保留招聘批次与官网列示业务范围。"
+  },
+  {
+    "id": "jd-campus",
+    "name": "京东",
+    "sector": "互联网 / 电商 / 金融科技",
+    "adapter": "jd",
+    "url": "https://campus.jd.com",
+    "reason": "官方校招和实习列表，保留业务集团、工作城市与完整 JD。"
+  },
+  {
+    "id": "xiaohongshu-campus",
+    "name": "小红书",
+    "sector": "互联网 / 产品 / 数据",
+    "adapter": "xiaohongshu",
+    "url": "https://job.xiaohongshu.com",
+    "reason": "官方校园招聘与实习公开职位列表，保留完整职责和要求。"
+  },
+  {
+    "id": "meituan-campus",
+    "name": "美团",
+    "sector": "互联网 / 商业分析",
+    "adapter": "meituan",
+    "url": "https://zhaopin.meituan.com/web/campus",
+    "enabled": true
+  },
+  {
+    "id": "youdao-official",
+    "name": "网易有道",
+    "sector": "互联网 / 教育科技 / 产品",
+    "adapter": "youdao",
+    "url": "https://hr.163.com/",
+    "enabled": true
+  },
+  {
+    "id": "ant-campus",
+    "name": "蚂蚁集团",
+    "sector": "互联网 / 金融科技 / 风控",
+    "adapter": "antgroup",
+    "url": "https://talent.antgroup.com/campus-full-list",
+    "enabled": true
+  }
+]

@@ -1,0 +1,895 @@
+# ats: greenhouse | lever | ashby；h1b_names：官方数据里的法人名
+
+[[company]]
+name = "Stripe"
+ats = "greenhouse"
+slug = "stripe"
+h1b_names = ["Stripe, Inc."]
+
+[[company]]
+name = "Airbnb"
+ats = "greenhouse"
+slug = "airbnb"
+h1b_names = ["Airbnb, Inc."]
+
+[[company]]
+name = "Coinbase"
+ats = "greenhouse"
+slug = "coinbase"
+h1b_names = ["Coinbase, Inc."]
+
+[[company]]
+name = "Robinhood"
+ats = "greenhouse"
+slug = "robinhood"
+h1b_names = ["Robinhood Markets, Inc."]
+
+[[company]]
+name = "Palantir"
+ats = "lever"
+slug = "palantir"
+h1b_names = ["Palantir Technologies Inc."]
+
+[[company]]
+name = "Plaid"
+ats = "ashby"
+slug = "plaid"
+h1b_names = ["Plaid Inc."]
+
+[[company]]
+name = "Ramp"
+ats = "ashby"
+slug = "ramp"
+h1b_names = ["Ramp Business Corporation"]
+
+[[company]]
+name = "OpenAI"
+ats = "ashby"
+slug = "openai"
+h1b_names = ["OpenAI OpCo, LLC", "OpenAI, L.L.C."]
+
+[[company]]
+name = "Affirm"
+ats = "greenhouse"
+slug = "affirm"
+h1b_names = []
+
+[[company]]
+name = "Chime"
+ats = "greenhouse"
+slug = "chime"
+h1b_names = []
+
+[[company]]
+name = "SoFi"
+ats = "greenhouse"
+slug = "sofi"
+h1b_names = []
+
+[[company]]
+name = "Brex"
+ats = "greenhouse"
+slug = "brex"
+h1b_names = []
+
+[[company]]
+name = "Adyen"
+ats = "greenhouse"
+slug = "adyen"
+h1b_names = []
+
+[[company]]
+name = "Upstart"
+ats = "greenhouse"
+slug = "upstart"
+h1b_names = []
+
+[[company]]
+name = "Blend"
+ats = "greenhouse"
+slug = "blend"
+h1b_names = []
+
+[[company]]
+name = "Betterment"
+ats = "greenhouse"
+slug = "betterment"
+h1b_names = []
+
+[[company]]
+name = "Wealthfront"
+ats = "lever"
+slug = "wealthfront"
+h1b_names = []
+
+[[company]]
+name = "Figure"
+ats = "greenhouse"
+slug = "figure"
+h1b_names = []
+
+[[company]]
+name = "Ripple"
+ats = "greenhouse"
+slug = "ripple"
+h1b_names = []
+
+[[company]]
+name = "Anchorage Digital"
+ats = "lever"
+slug = "anchorage"
+h1b_names = []
+
+[[company]]
+name = "Fireblocks"
+ats = "greenhouse"
+slug = "fireblocks"
+h1b_names = []
+
+[[company]]
+name = "FalconX"
+ats = "greenhouse"
+slug = "falconx"
+h1b_names = []
+
+[[company]]
+name = "Gemini"
+ats = "greenhouse"
+slug = "gemini"
+h1b_names = []
+
+[[company]]
+name = "Kraken"
+ats = "ashby"
+slug = "kraken.com"
+h1b_names = []
+
+[[company]]
+name = "BitGo"
+ats = "greenhouse"
+slug = "bitgo"
+h1b_names = []
+
+[[company]]
+name = "OKX"
+ats = "greenhouse"
+slug = "okx"
+h1b_names = []
+
+[[company]]
+name = "Crypto.com"
+ats = "lever"
+slug = "crypto"
+h1b_names = []
+
+[[company]]
+name = "Wise"
+ats = "greenhouse"
+slug = "wise"
+h1b_names = []
+
+[[company]]
+name = "Airwallex"
+ats = "ashby"
+slug = "airwallex"
+h1b_names = []
+
+[[company]]
+name = "Modern Treasury"
+ats = "ashby"
+slug = "moderntreasury"
+h1b_names = []
+
+[[company]]
+name = "Column"
+ats = "ashby"
+slug = "column"
+h1b_names = []
+
+[[company]]
+name = "Unit"
+ats = "ashby"
+slug = "unit"
+h1b_names = []
+
+[[company]]
+name = "Lithic"
+ats = "greenhouse"
+slug = "lithic"
+h1b_names = []
+
+[[company]]
+name = "Sardine"
+ats = "ashby"
+slug = "sardine"
+h1b_names = []
+
+[[company]]
+name = "Alloy"
+ats = "greenhouse"
+slug = "alloy"
+h1b_names = []
+
+[[company]]
+name = "Persona"
+ats = "ashby"
+slug = "persona"
+h1b_names = []
+
+[[company]]
+name = "SentiLink"
+ats = "ashby"
+slug = "sentilink"
+h1b_names = []
+
+[[company]]
+name = "Forter"
+ats = "greenhouse"
+slug = "forter"
+h1b_names = []
+
+[[company]]
+name = "Riskified"
+ats = "greenhouse"
+slug = "riskified"
+h1b_names = []
+
+[[company]]
+name = "Signifyd"
+ats = "greenhouse"
+slug = "signifyd95"
+h1b_names = []
+
+[[company]]
+name = "Sezzle"
+ats = "greenhouse"
+slug = "sezzle"
+h1b_names = []
+
+[[company]]
+name = "EarnIn"
+ats = "greenhouse"
+slug = "earnin"
+h1b_names = []
+
+[[company]]
+name = "Current"
+ats = "greenhouse"
+slug = "current81"
+h1b_names = []
+
+[[company]]
+name = "Public"
+ats = "greenhouse"
+slug = "public"
+h1b_names = []
+
+[[company]]
+name = "Carta"
+ats = "greenhouse"
+slug = "carta"
+h1b_names = []
+
+[[company]]
+name = "EquityZen"
+ats = "greenhouse"
+slug = "equityzen"
+h1b_names = []
+
+[[company]]
+name = "Navan"
+ats = "greenhouse"
+slug = "tripactions"
+h1b_names = []
+
+[[company]]
+name = "Gusto"
+ats = "greenhouse"
+slug = "gusto"
+h1b_names = []
+
+[[company]]
+name = "BILL"
+ats = "greenhouse"
+slug = "billcom"
+h1b_names = []
+
+[[company]]
+name = "Melio"
+ats = "greenhouse"
+slug = "melio"
+h1b_names = []
+
+[[company]]
+name = "Rho"
+ats = "ashby"
+slug = "rho"
+h1b_names = []
+
+[[company]]
+name = "Tala"
+ats = "lever"
+slug = "tala"
+h1b_names = []
+
+[[company]]
+name = "Branch"
+ats = "greenhouse"
+slug = "branch"
+h1b_names = []
+
+[[company]]
+name = "Oscar Health"
+ats = "greenhouse"
+slug = "oscar"
+h1b_names = []
+
+[[company]]
+name = "Ethos"
+ats = "greenhouse"
+slug = "ethoslife"
+h1b_names = []
+
+[[company]]
+name = "Toast"
+ats = "greenhouse"
+slug = "toast"
+h1b_names = []
+
+[[company]]
+name = "Block"
+ats = "greenhouse"
+slug = "block"
+h1b_names = []
+
+[[company]]
+name = "dLocal"
+ats = "lever"
+slug = "dlocal"
+h1b_names = []
+
+[[company]]
+name = "Payoneer"
+ats = "greenhouse"
+slug = "payoneer"
+h1b_names = []
+
+[[company]]
+name = "TrueLayer"
+ats = "ashby"
+slug = "truelayer"
+h1b_names = []
+
+[[company]]
+name = "GoCardless"
+ats = "greenhouse"
+slug = "gocardless"
+h1b_names = []
+
+[[company]]
+name = "Databricks"
+ats = "greenhouse"
+slug = "databricks"
+h1b_names = []
+
+[[company]]
+name = "Datadog"
+ats = "greenhouse"
+slug = "datadog"
+h1b_names = []
+
+[[company]]
+name = "Cloudflare"
+ats = "greenhouse"
+slug = "cloudflare"
+h1b_names = []
+
+[[company]]
+name = "MongoDB"
+ats = "greenhouse"
+slug = "mongodb"
+h1b_names = []
+
+[[company]]
+name = "Elastic"
+ats = "greenhouse"
+slug = "elastic"
+h1b_names = []
+
+[[company]]
+name = "Fivetran"
+ats = "greenhouse"
+slug = "fivetran"
+h1b_names = []
+
+[[company]]
+name = "ClickHouse"
+ats = "ashby"
+slug = "clickhouse"
+h1b_names = []
+
+[[company]]
+name = "MotherDuck"
+ats = "ashby"
+slug = "motherduck"
+h1b_names = []
+
+[[company]]
+name = "Hex"
+ats = "ashby"
+slug = "hex"
+h1b_names = []
+
+[[company]]
+name = "Sigma Computing"
+ats = "greenhouse"
+slug = "sigmacomputing"
+h1b_names = []
+
+[[company]]
+name = "Mixpanel"
+ats = "greenhouse"
+slug = "mixpanel"
+h1b_names = []
+
+[[company]]
+name = "Pendo"
+ats = "greenhouse"
+slug = "pendo"
+h1b_names = []
+
+[[company]]
+name = "PostHog"
+ats = "ashby"
+slug = "posthog"
+h1b_names = []
+
+[[company]]
+name = "LaunchDarkly"
+ats = "greenhouse"
+slug = "launchdarkly"
+h1b_names = []
+
+[[company]]
+name = "Hightouch"
+ats = "ashby"
+slug = "hightouch"
+h1b_names = []
+
+[[company]]
+name = "Airbyte"
+ats = "ashby"
+slug = "airbyte"
+h1b_names = []
+
+[[company]]
+name = "Prefect"
+ats = "ashby"
+slug = "prefect"
+h1b_names = []
+
+[[company]]
+name = "Atlan"
+ats = "ashby"
+slug = "atlan"
+h1b_names = []
+
+[[company]]
+name = "Collibra"
+ats = "greenhouse"
+slug = "collibra"
+h1b_names = []
+
+[[company]]
+name = "Dataiku"
+ats = "greenhouse"
+slug = "dataiku"
+h1b_names = []
+
+[[company]]
+name = "Domino Data Lab"
+ats = "greenhouse"
+slug = "dominodatalab"
+h1b_names = []
+
+[[company]]
+name = "Anyscale"
+ats = "ashby"
+slug = "anyscale"
+h1b_names = []
+
+[[company]]
+name = "Scale AI"
+ats = "greenhouse"
+slug = "scaleai"
+h1b_names = []
+
+[[company]]
+name = "Anthropic"
+ats = "greenhouse"
+slug = "anthropic"
+h1b_names = []
+
+[[company]]
+name = "Cohere"
+ats = "ashby"
+slug = "cohere"
+h1b_names = []
+
+[[company]]
+name = "Perplexity"
+ats = "ashby"
+slug = "perplexity"
+h1b_names = []
+
+[[company]]
+name = "Together AI"
+ats = "greenhouse"
+slug = "togetherai"
+h1b_names = []
+
+[[company]]
+name = "Glean"
+ats = "greenhouse"
+slug = "gleanwork"
+h1b_names = []
+
+[[company]]
+name = "Harvey"
+ats = "ashby"
+slug = "harvey"
+h1b_names = []
+
+[[company]]
+name = "Sierra"
+ats = "ashby"
+slug = "sierra"
+h1b_names = []
+
+[[company]]
+name = "Writer"
+ats = "ashby"
+slug = "writer"
+h1b_names = []
+
+[[company]]
+name = "ElevenLabs"
+ats = "ashby"
+slug = "elevenlabs"
+h1b_names = []
+
+[[company]]
+name = "Synthesia"
+ats = "ashby"
+slug = "synthesia"
+h1b_names = []
+
+[[company]]
+name = "DeepL"
+ats = "ashby"
+slug = "deepl"
+h1b_names = []
+
+[[company]]
+name = "Notion"
+ats = "ashby"
+slug = "notion"
+h1b_names = []
+
+[[company]]
+name = "Figma"
+ats = "greenhouse"
+slug = "figma"
+h1b_names = []
+
+[[company]]
+name = "Airtable"
+ats = "greenhouse"
+slug = "airtable"
+h1b_names = []
+
+[[company]]
+name = "Asana"
+ats = "greenhouse"
+slug = "asana"
+h1b_names = []
+
+[[company]]
+name = "Linear"
+ats = "ashby"
+slug = "linear"
+h1b_names = []
+
+[[company]]
+name = "Dropbox"
+ats = "greenhouse"
+slug = "dropbox"
+h1b_names = []
+
+[[company]]
+name = "Box"
+ats = "greenhouse"
+slug = "boxinc"
+h1b_names = []
+
+[[company]]
+name = "Reddit"
+ats = "greenhouse"
+slug = "reddit"
+h1b_names = []
+
+[[company]]
+name = "Discord"
+ats = "greenhouse"
+slug = "discord"
+h1b_names = []
+
+[[company]]
+name = "Pinterest"
+ats = "greenhouse"
+slug = "pinterest"
+h1b_names = []
+
+[[company]]
+name = "Roblox"
+ats = "greenhouse"
+slug = "roblox"
+h1b_names = []
+
+[[company]]
+name = "Duolingo"
+ats = "greenhouse"
+slug = "duolingo"
+h1b_names = []
+
+[[company]]
+name = "Coursera"
+ats = "greenhouse"
+slug = "coursera"
+h1b_names = []
+
+[[company]]
+name = "Udemy"
+ats = "greenhouse"
+slug = "udemy"
+h1b_names = []
+
+[[company]]
+name = "DoorDash"
+ats = "greenhouse"
+slug = "doordashusa"
+h1b_names = []
+
+[[company]]
+name = "Instacart"
+ats = "greenhouse"
+slug = "instacart"
+h1b_names = []
+
+[[company]]
+name = "Lyft"
+ats = "greenhouse"
+slug = "lyft"
+h1b_names = []
+
+[[company]]
+name = "Samsara"
+ats = "greenhouse"
+slug = "samsara"
+h1b_names = []
+
+[[company]]
+name = "Motive"
+ats = "greenhouse"
+slug = "gomotive"
+h1b_names = []
+
+[[company]]
+name = "Gong"
+ats = "greenhouse"
+slug = "gongio"
+h1b_names = []
+
+[[company]]
+name = "Salesloft"
+ats = "greenhouse"
+slug = "salesloft"
+h1b_names = []
+
+[[company]]
+name = "Outreach"
+ats = "lever"
+slug = "outreach"
+h1b_names = []
+
+[[company]]
+name = "Intercom"
+ats = "greenhouse"
+slug = "intercom"
+h1b_names = []
+
+[[company]]
+name = "Braze"
+ats = "greenhouse"
+slug = "braze"
+h1b_names = []
+
+[[company]]
+name = "Klaviyo"
+ats = "greenhouse"
+slug = "klaviyo"
+h1b_names = []
+
+[[company]]
+name = "Attentive"
+ats = "greenhouse"
+slug = "attentive"
+h1b_names = []
+
+[[company]]
+name = "Sendbird"
+ats = "greenhouse"
+slug = "sendbird"
+h1b_names = []
+
+[[company]]
+name = "Twilio"
+ats = "greenhouse"
+slug = "twilio"
+h1b_names = []
+
+[[company]]
+name = "Vanta"
+ats = "ashby"
+slug = "vanta"
+h1b_names = []
+
+[[company]]
+name = "Drata"
+ats = "ashby"
+slug = "drata"
+h1b_names = []
+
+[[company]]
+name = "Secureframe"
+ats = "ashby"
+slug = "secureframe"
+h1b_names = []
+
+[[company]]
+name = "OneTrust"
+ats = "greenhouse"
+slug = "onetrust"
+h1b_names = []
+
+[[company]]
+name = "Wiz"
+ats = "greenhouse"
+slug = "wizinc"
+h1b_names = []
+
+[[company]]
+name = "Okta"
+ats = "greenhouse"
+slug = "okta"
+h1b_names = []
+
+[[company]]
+name = "GitLab"
+ats = "greenhouse"
+slug = "gitlab"
+h1b_names = []
+
+[[company]]
+name = "Vercel"
+ats = "greenhouse"
+slug = "vercel"
+h1b_names = []
+
+[[company]]
+name = "Netlify"
+ats = "greenhouse"
+slug = "netlify"
+h1b_names = []
+
+[[company]]
+name = "Supabase"
+ats = "ashby"
+slug = "supabase"
+h1b_names = []
+
+[[company]]
+name = "Render"
+ats = "ashby"
+slug = "render"
+h1b_names = []
+
+[[company]]
+name = "Replit"
+ats = "ashby"
+slug = "replit"
+h1b_names = []
+
+[[company]]
+name = "Zapier"
+ats = "ashby"
+slug = "zapier"
+h1b_names = []
+
+[[company]]
+name = "Squarespace"
+ats = "greenhouse"
+slug = "squarespace"
+h1b_names = []
+
+[[company]]
+name = "HubSpot"
+ats = "greenhouse"
+slug = "hubspotjobs"
+h1b_names = []
+
+[[company]]
+name = "Ro"
+ats = "lever"
+slug = "ro"
+h1b_names = []
+
+[[company]]
+name = "Modern Health"
+ats = "greenhouse"
+slug = "modernhealth"
+h1b_names = []
+
+[[company]]
+name = "Solace"
+ats = "ashby"
+slug = "Solace"
+h1b_names = []
+
+[[company]]
+name = "The Brattle Group"
+ats = "greenhouse"
+slug = "thebrattlegroup"
+h1b_names = []
+
+[[company]]
+name = "Bessemer Venture Partners"
+ats = "greenhouse"
+slug = "bvpanalyst"
+h1b_names = []
+
+[[company]]
+name = "GLC Advisors"
+ats = "greenhouse"
+slug = "glcadvisors"
+h1b_names = []
+
+[[company]]
+name = "Orion Group"
+ats = "greenhouse"
+slug = "oriongroup"
+h1b_names = []
+
+[[company]]
+name = "Natera"
+ats = "greenhouse"
+slug = "natera"
+h1b_names = []
+
+[[company]]
+name = "IXL Learning"
+ats = "greenhouse"
+slug = "ixllearning"
+h1b_names = []
+
+[[company]]
+name = "Lucid Software"
+ats = "greenhouse"
+slug = "lucidsoftware"
+h1b_names = []
+
+[[company]]
+name = "Zocdoc"
+ats = "greenhouse"
+slug = "zocdoc"
+h1b_names = []

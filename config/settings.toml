@@ -1,0 +1,10 @@
+model = "your-model-id"      # 评分用的模型，需设置环境变量 ANTHROPIC_API_KEY
+llm_top_n = 25                    # 每次只对关键词初筛后最靠前的 N 个岗位调用模型
+llm_min_heuristic = 45
+fuzzy_cutoff = 0.9                # 公司名模糊匹配阈值，匹配结果会显示出来供人工核对
+
+[filter]
+include_title = ["analyst", "analytics", "data", "business intelligence", "bi", "risk", "quantitative", "strategy", "credit", "fraud", "finance"]
+exclude_title = ["senior", "sr.", "staff", "principal", "director", "manager", "head of", "vice president", "lead", "engineer", "designer", "account executive", "sales", "recruiter", "counsel", "attorney", "software", "developer"]
+locations = ["united states", "usa", "u.s.", "us", "remote", "california", "ca", "new york", "ny", "san francisco", "bay area", "seattle", "austin", "boston", "chicago", "washington", "stamford", "connecticut", "charlotte", "north carolina", "raleigh", "mclean", "virginia", "atlanta", "georgia", "denver", "colorado", "philadelphia", "pennsylvania", "new jersey", "miami", "florida", "dallas", "texas", "university park"]
+foreign = ["ireland", "uk", "united kingdom", "england", "canada", "india", "germany", "france", "spain", "netherlands", "poland", "singapore", "australia", "japan", "brazil", "mexico", "emea", "apac", "europe", "london", "dublin", "toronto", "berlin", "paris", "sydney", "bangalore", "tokyo", "chile", "argentina", "colombia", "latam", "uruguay", "costa rica", "pakistan", "philippines", "south africa", "indonesia", "malaysia", "israel"]

@@ -1,0 +1,3 @@
+# Core application runs on Python 3.11+ without third-party packages.
+# Optional: required only for XLSX imports (CSV imports work without it).
+openpyxl>=3.1

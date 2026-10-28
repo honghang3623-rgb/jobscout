@@ -1,0 +1,25 @@
+name: Checks
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: python -m pip install -r requirements.txt
+      - run: python scripts/setup_demo.py
+      - run: python -m unittest discover -s tests -p 'test_*.py'
+        env:
+          JOBSCOUT_GRADUATION_MONTH: '2027-05'
+      - run: node --check web/app.js
+      - run: node tests/test_reconnect.cjs
+      - run: python scripts/privacy_check.py

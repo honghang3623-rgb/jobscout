@@ -1,0 +1,28 @@
+# Local runtime state and candidate information
+/data/
+/profile.md
+/profile_cn.md
+/.env
+/.env.*
+!/.env.example
+*.db
+*.db-*
+*.sqlite*
+*.log
+*.pem
+*.key
+*.docx
+*.pdf
+*.xlsx
+*.csv
+# Generated files, local environments and bundles
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+vendor/
+*.app/
+.DS_Store
+Thumbs.db
+/backups/
+/dist/
