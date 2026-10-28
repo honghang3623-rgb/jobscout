@@ -22,7 +22,22 @@ This personal project was developed with AI coding assistants, including Claude 
 - **Review and tracking:** save notes, shortlist jobs, record application stages and export results. The application does not auto-submit job applications.
 - **Source accountability:** display failed, manual and partial sources separately. Incomplete feeds do not automatically close unseen jobs; browser snapshots retain their original verification time.
 
-## Run the fictional demo
+## Try the live demo — no installation
+
+**[Open the interactive Demo](https://jobscout-workbench-demo.tunedhorse1025.chatgpt.site)**
+
+This public URL works directly in a browser without Python, login or access to the author's computer. Try U.S./China switching, filters, matching evidence, a sample JD selector, status/notes changes and CSV export. All eight jobs and the candidate profiles are fictional.
+
+The online demo uses **precomputed Python-rule results and browser memory**. It does not run live scans, AI API calls, file uploads or application submissions. Changes disappear when the page is reloaded. The static implementation is in [`demo/`](demo/).
+
+| Capability | Online demo | Full local application |
+|---|---|---|
+| Filters and matching evidence | Fictional examples / precomputed results | Your local profiles and collected JDs |
+| Notes and application stages | Current tab only; reload resets | SQLite persistence |
+| Employer collection and AI | Disabled | Available when configured |
+| Personal data | Not accepted | Kept in your local runtime directory |
+
+## Run locally — optional for the full application
 
 Requires **Python 3.11+**. The core server uses the Python standard library.
 
@@ -31,7 +46,7 @@ python3 scripts/setup_demo.py
 python3 server.py --no-scheduler
 ```
 
-Open **http://127.0.0.1:8765/**. The demo creates eight fictional jobs and two fictional candidate profiles locally. It makes no employer or AI requests during setup, and scheduled scanning is disabled by default.
+After starting the server, open `http://127.0.0.1:8765/` **on your own computer**. This is a local loopback address, not an online demo link; use the public Demo above for direct access. The demo creates eight fictional jobs and two fictional candidate profiles locally. It makes no employer or AI requests during setup, and scheduled scanning is disabled by default.
 
 If that port is occupied:
 

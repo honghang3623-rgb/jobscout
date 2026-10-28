@@ -22,4 +22,6 @@ jobs:
           JOBSCOUT_GRADUATION_MONTH: '2027-05'
       - run: node --check web/app.js
       - run: node tests/test_reconnect.cjs
+      - run: node demo/test-demo.cjs
+      - run: node --check demo/dist/app.js
       - run: python scripts/privacy_check.py
